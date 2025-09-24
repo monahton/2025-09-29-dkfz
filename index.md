@@ -331,7 +331,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "incubator" %}
-<p><a href="https://forms.gle/zrpBYNtABn8gzHag9">Pre-workshop Survey</a></p>
+<p><a href="https://forms.gle/17uiCUp2iW28SeJF9">Pre-workshop Survey</a></p>
 <p><a href="https://forms.gle/ehEfv26cBMxbDvVE9">Post-workshop Survey</a></p>
 {% elsif site.incubator_pre_survey or site.incubator_post_survey %}
 <div class="alert alert-danger">
@@ -343,7 +343,7 @@ in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
 change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
-<p><a href="https://forms.gle/XHCpGH2EZViZB9QV6">Pre-workshop Survey</a></p>
+<p><a href="https://forms.gle/17uiCUp2iW28SeJF9">Pre-workshop Survey</a></p>
 <p><a href="https://forms.gle/W7inUvCUhhMquRue6">Post-workshop Survey</a></p>
 {% endif %}
 
