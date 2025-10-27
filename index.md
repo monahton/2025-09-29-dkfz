@@ -344,7 +344,7 @@ change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
 <p><a href="https://forms.gle/17uiCUp2iW28SeJF9">Pre-workshop Survey</a></p>
-<p><a href="https://forms.gle/W7inUvCUhhMquRue6">Post-workshop Survey</a></p>
+<p><a href="https://forms.gle/qUdJ8FQJgRS55EW26">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
