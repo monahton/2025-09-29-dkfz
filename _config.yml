@@ -111,7 +111,7 @@ cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
 pre_survey: "https://forms.gle/17uiCUp2iW28SeJF9"
-post_survey: "https://forms.gle/LHHs8T1ZjMwCVVMBA"
+post_survey: "https://forms.gle/qUdJ8FQJgRS55EW26"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
